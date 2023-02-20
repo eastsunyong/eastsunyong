@@ -7,6 +7,7 @@
   <img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 
 <h3>🔨 Tools 🔨</h3>
 
@@ -15,6 +16,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastsunyong&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=eastsunyong&show_icons=true">
-
-
-  
